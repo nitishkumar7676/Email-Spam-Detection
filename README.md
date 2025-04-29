@@ -75,4 +75,6 @@ Text Processing: NLTK, SpaCy, Scikit-learn.
 Modeling: Scikit-learn, TensorFlow, PyTorch.
 Visualization: Matplotlib, Seaborn.
 
+Tools used-Pandas, Numpy, Scikit-learn, NLTK, Streamlit 
+
 To Run the program use this :- streamlit run app.py in the terminal.
